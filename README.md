@@ -1,18 +1,18 @@
 # Java
 
-> .[!NOTE]
+> [!NOTE]
 > Esto es una nota
 
-> .[!TIP]
+> [!TIP]
 > Esto es una nota
 
-> .[!IMPORTANT]
+> [!IMPORTANT]
 > Esto es una nota
 
-> .[!WARNING]
+> [!WARNING]
 > Esto es una nota
 
-> .[!CAUTION]
+> [!CAUTION]
 > Esto es una nota 
 
 .
