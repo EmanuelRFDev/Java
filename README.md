@@ -1,10 +1,10 @@
 # Java
 
 > [!NOTE]
-> Esto es una nota
+> Los temas aprendidos durante mi proceso de programacion 
 
 > [!TIP]
-> Esto es una nota
+> Es importnate seguir creciendo como programador y mejorr la logica
 
 > [!IMPORTANT]
 > Esto es una nota
