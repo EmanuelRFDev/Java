@@ -3,7 +3,7 @@
 > [!NOTE]
 > Los temas aprendidos durante mi proceso de programacion 
 
-> [!TIP] El tiemo de respuesta
+> [!TIP]
 > Es importnate seguir creciendo como programador y mejorr la logica
 
 > [!IMPORTANT]
